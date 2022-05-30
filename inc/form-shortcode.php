@@ -1,13 +1,13 @@
 <?php
 /**
- * Declares the shortcode that displays the PROPER contact form
+ *
  *
  * @package WordPress
  * @subpackage PROPER Contact
  */
 
 /**
- * Do not allow this file to be loaded directly
+ * 
  */
 
 if ( ! function_exists( 'add_action' ) ) {
@@ -16,9 +16,9 @@ if ( ! function_exists( 'add_action' ) ) {
 
 
 /**
- * Form shortcode for outputting the contact form
+ * 
  *
- * @see https://developer.wordpress.org/reference/functions/add_shortcode/
+ * 
  *
  * @param array  $atts
  * @param string $content

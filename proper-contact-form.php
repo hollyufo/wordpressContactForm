@@ -1,16 +1,6 @@
 <?php
 
-/*
- * Plugin Name: PROPER Contact Form
- * Plugin URI: http://theproperweb.com/product/proper-contact-form/
- * Description: A better contact form processor
- * Version: 1.1.0
- * Author: PROPER Web Development
- * Author URI: http://theproperweb.com
- * Text Domain: proper-contact
- * Domain Path: /languages/
- * License: GPL v3
- */
+
 
 // Make sure we don't expose any info if called directly
 if ( ! function_exists( 'add_action' ) ) {
